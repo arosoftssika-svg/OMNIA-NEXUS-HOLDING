@@ -1,0 +1,6 @@
+{
+  "name": "OMNIA NEXUS HOLDING",
+  "description": "Site institutionnel corporate haut de gamme du groupe OMNIA NEXUS HOLDING, inspiré par IHC UAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
